@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\components\camera_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\components\scene_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\components\simple_scene.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\components\text_renderer.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\engine.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\gpu\frame_buffer.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\gpu\gpu_buffers.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\gpu\mesh.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\gpu\shader.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\gpu\texture2D.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\managers\texture_manager.cpp">
+      <Filter>src\core\managers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\window\input_controller.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\window\window_callbacks.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\window\window_object.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\world.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\utils\gl_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\utils\text_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\tema1\object2D.cpp">
+      <Filter>src\lab_m1\tema1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\tema1\tema1.cpp">
+      <Filter>src\lab_m1\tema1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\tema1\tema1_vis2D.cpp">
+      <Filter>src\lab_m1\tema1</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\components\camera.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\components\camera_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\components\exports.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\components\scene_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\components\simple_scene.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\components\text_renderer.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\components\transform.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\engine.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\gpu\frame_buffer.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\gpu\gpu_buffers.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\gpu\mesh.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\gpu\particle_effect.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\gpu\shader.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\gpu\ssbo.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\gpu\texture2D.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\gpu\vertex_bone_data.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\gpu\vertex_format.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\managers\resource_path.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\managers\texture_manager.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\window\input_controller.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\window\window_callbacks.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\window\window_object.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\core\world.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\lab_m1\lab_list.h">
+      <Filter>src\lab_m1</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\utils\gl_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\utils\glm_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\utils\math_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\utils\memory_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\utils\text_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\src\utils\window_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\tema1\object2D.h">
+      <Filter>src\lab_m1\tema1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\tema1\tema1.h">
+      <Filter>src\lab_m1\tema1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\tema1\tema1_vis2D.h">
+      <Filter>src\lab_m1\tema1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\tema1\transform2D.h">
+      <Filter>src\lab_m1\tema1</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\tonit\Desktop\Facultate\Sem 1\EGC\gfx-framework\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{D10256EF-4ABC-3F02-B6E3-C2CD91030DC1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\components">
+      <UniqueIdentifier>{6CE0ABEC-3AE1-3BDD-923B-A776BF163707}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core">
+      <UniqueIdentifier>{12BCD499-ECDB-3C54-9312-A2B4FAEF56FB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\gpu">
+      <UniqueIdentifier>{F8435266-BD79-384B-A122-51032311247C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\managers">
+      <UniqueIdentifier>{61907B3A-7A48-383E-A3D3-8755035587E9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\window">
+      <UniqueIdentifier>{5BF85840-6313-3B77-8BA3-8470DF933BBA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1">
+      <UniqueIdentifier>{1F5083AE-7D4C-3A92-BC14-B4FE40B4B957}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\utils">
+      <UniqueIdentifier>{C54004B7-0028-3B62-9CE6-66A73C08F65C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\tema1">
+      <UniqueIdentifier>{a9bc6b5f-7026-4b9c-abaa-580d9fa1d250}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
